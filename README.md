@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello There <img src="https://rosettyller.tumblr.com/post/737379820255772672/kenobi-source-favorite-obi-wan-scenes-as-chosen.gif"></h1>
+<h1 align="center">👋 Hello There <img src="""></h1>
 
 <p align="center">
 🎓 Graduado em <strong>Análise e Desenvolvimento de Sistemas</strong><br>
@@ -10,7 +10,6 @@
   <a href="mailto:gameredija@hotmail.com">
     <img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail">
   </a>
-  <img src="https://img.shields.io/badge/GitHub-GaMeredija-black?style=for-the-badge&logo=github">
 </p>
 
 ---
@@ -33,9 +32,9 @@
   <img src="https://img.shields.io/badge/Networking-0078D7?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows"/>
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 </p>
-
----
 
 ---
 
