@@ -1,88 +1,67 @@
-👋 Olá, eu sou o Gabriel de Lima Meredija
+<h1 align="center">👋 Olá, eu sou o Gabriel Meredija</h1>
 
-🎓 **Graduado em Análise e Desenvolvimento de Sistemas** – FATEC Presidente Prudente  
-💻 Profissional de TI com foco em desenvolvimento, lógica e fundamentos de sistemas  
-📍 Mirante do Paranapanema – SP  
+<p align="center">
+🎓 Graduado em <strong>Análise e Desenvolvimento de Sistemas</strong><br>
+💻 Profissional de TI com foco em desenvolvimento, lógica e fundamentos de sistemas<br>
+📍 Mirante do Paranapanema - SP
+</p>
+
+<p align="center">
+  <a href="mailto:gameredija@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail">
+  </a>
+  <img src="https://img.shields.io/badge/GitHub-GaMeredija-black?style=for-the-badge&logo=github">
+</p>
 
 ---
 
-## 🧩 Sobre mim
+## 🧠 Sobre mim
 Sou graduado em Análise e Desenvolvimento de Sistemas, com perfil analítico, organizado e
 orientado à resolução de problemas. Possuo base sólida em lógica de programação, banco de dados,
-redes e fundamentos de tecnologia, buscando sempre aplicar boas práticas e aprender continuamente.
+redes de computadores e fundamentos de tecnologia.
 
 Tenho experiência em atendimento ao público, o que contribuiu para o desenvolvimento de
-comunicação clara, responsabilidade, organização e trabalho em equipe — competências que
-complementam minha atuação técnica na área de TI.
+comunicação clara, responsabilidade e trabalho em equipe.
 
 ---
 
-## 🧠 Áreas de atuação e interesse
-- Desenvolvimento de sistemas
-- Programação e lógica computacional
-- Banco de dados e modelagem
-- Redes de computadores
-- Infraestrutura e suporte em TI
-- Tecnologia aplicada a soluções reais
+## 🎯 Áreas de atuação
+- Desenvolvimento de sistemas  
+- Programação e lógica computacional  
+- Banco de dados  
+- Redes de computadores  
+- Infraestrutura e suporte em TI  
 
 ---
 
 ## 🛠️ Tecnologias e conhecimentos
 
-### 💻 Desenvolvimento
-- Lógica de Programação  
-- Algoritmos e estruturas básicas  
-- Programação orientada à solução de problemas  
-
-### 🗄️ Banco de Dados
-- Modelagem de dados  
-- Consultas SQL  
-- Relacionamentos e integridade de dados  
-
-### 🌐 Redes e Infraestrutura
-- Fundamentos de redes de computadores  
-- Configuração básica de rede  
-- Noções de segurança da informação  
-
-### 🖥️ Sistemas e Suporte
-- Sistemas Operacionais  
-- Informática aplicada  
-- Suporte técnico básico  
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Networking-0078D7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows"/>
+</p>
 
 ---
 
-## 📚 Formação Acadêmica
-- **Análise e Desenvolvimento de Sistemas**  
-  FATEC Presidente Prudente — **Concluído**  
-  
-- Cursos complementares na área de informática e tecnologia  
+## 📚 Formação
+🎓 **Análise e Desenvolvimento de Sistemas**  
+FATEC Presidente Prudente — **Concluído**
 
 ---
 
-## 🎯 Objetivo Profissional
-Atuar profissionalmente na área de Tecnologia da Informação, aplicando os conhecimentos
-adquiridos na graduação, contribuindo para o desenvolvimento de soluções eficientes,
-bem estruturadas e alinhadas às necessidades reais das organizações.
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark"/>
+</p>
 
 ---
 
-## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=default)
-
----
-
-## 🏷️ Tecnologias
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
-![Networking](https://img.shields.io/badge/Networking-0078D7?style=for-the-badge)
-
----
-
-## 📫 Contato
-📧 **Email:** gameredija@hotmail.com  
-
----
-
-⭐ *Perfil profissional em constante evolução e aprimoramento técnico.*
+⭐ <em>Perfil profissional em constante evolução.</em>
