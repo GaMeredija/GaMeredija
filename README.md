@@ -29,10 +29,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Networking-0078D7?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows"/>
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
 </p>
 
