@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, eu sou o Gabriel Meredija</h1>
+<h1 align="center">👋 Hello There <img src="https://rosettyller.tumblr.com/post/737379820255772672/kenobi-source-favorite-obi-wan-scenes-as-chosen"></h1>
 
 <p align="center">
 🎓 Graduado em <strong>Análise e Desenvolvimento de Sistemas</strong><br>
@@ -12,16 +12,6 @@
   </a>
   <img src="https://img.shields.io/badge/GitHub-GaMeredija-black?style=for-the-badge&logo=github">
 </p>
-
----
-
-## 🧠 Sobre mim
-Sou graduado em Análise e Desenvolvimento de Sistemas, com perfil analítico, organizado e
-orientado à resolução de problemas. Possuo base sólida em lógica de programação, banco de dados,
-redes de computadores e fundamentos de tecnologia.
-
-Tenho experiência em atendimento ao público, o que contribuiu para o desenvolvimento de
-comunicação clara, responsabilidade e trabalho em equipe.
 
 ---
 
@@ -47,10 +37,6 @@ comunicação clara, responsabilidade e trabalho em equipe.
 
 ---
 
-## 📚 Formação
-🎓 **Análise e Desenvolvimento de Sistemas**  
-FATEC Presidente Prudente — **Concluído**
-
 ---
 
 ## 📊 GitHub Stats
@@ -61,7 +47,3 @@ FATEC Presidente Prudente — **Concluído**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark"/>
 </p>
-
----
-
-⭐ <em>Perfil profissional em constante evolução.</em>
