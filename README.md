@@ -1,7 +1,16 @@
-<h1 align="center">
-  👋 Hello There
-  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="200"/>
-</h1>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="65%">
+      <h1>
+        👋 Hello There
+      </h1>
+    </td>
+    <td align="center" width="35%">
+      <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="250"/>
+    </td>
+  </tr>
+</table>
+>
 
 <p align="center">
 🎓 Graduado em <strong>Análise e Desenvolvimento de Sistemas</strong><br>
