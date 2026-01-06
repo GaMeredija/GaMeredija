@@ -1,4 +1,7 @@
-<h1 align="center">👋 Hello There <img src="""></h1>
+<h1 align="center">
+  👋 Hello There
+  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="45"/>
+</h1>
 
 <p align="center">
 🎓 Graduado em <strong>Análise e Desenvolvimento de Sistemas</strong><br>
