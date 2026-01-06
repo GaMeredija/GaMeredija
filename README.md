@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello There <img src="https://rosettyller.tumblr.com/post/737379820255772672/kenobi-source-favorite-obi-wan-scenes-as-chosen"></h1>
+<h1 align="center">👋 Hello There <img src="https://rosettyller.tumblr.com/post/737379820255772672/kenobi-source-favorite-obi-wan-scenes-as-chosen.gif"></h1>
 
 <p align="center">
 🎓 Graduado em <strong>Análise e Desenvolvimento de Sistemas</strong><br>
