@@ -54,9 +54,7 @@ complementam minha atuação técnica na área de TI.
 ## 📚 Formação Acadêmica
 - **Análise e Desenvolvimento de Sistemas**  
   FATEC Presidente Prudente — **Concluído**  
-
-- Ensino Médio Completo  
-
+  
 - Cursos complementares na área de informática e tecnologia  
 
 ---
