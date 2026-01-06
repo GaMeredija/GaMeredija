@@ -1,6 +1,6 @@
 <h1 align="center">
   👋 Hello There
-  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="45"/>
+  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="80"/>
 </h1>
 
 <p align="center">
@@ -29,9 +29,6 @@
 ## 🛠️ Tecnologias e conhecimentos
 
 <p align="left">
-## 🛠️ Tecnologias e conhecimentos
-
-<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -43,7 +40,7 @@
 </p>
 
           
-</p>
+
 
 ---
 
