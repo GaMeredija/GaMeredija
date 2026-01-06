@@ -1,6 +1,6 @@
 <h1 align="center">
   👋 Hello There
-  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="80"/>
+  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="200"/>
 </h1>
 
 <p align="center">
