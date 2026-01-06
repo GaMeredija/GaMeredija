@@ -26,11 +26,6 @@
   <a href="https://br.linkedin.com/in/gabriel-meredija-bb175a3a3">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
-<p align="center">
-  <a href="mailto:gameredija@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail">
-  </a>
 
 </p>
 
